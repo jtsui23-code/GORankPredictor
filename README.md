@@ -3,6 +3,15 @@
 ### Description:
 Machine Learning model that predicts the rank of the Go Player according to the input win and lost ratio of the Go Player.
 
+### Technologies Used:
+- Python
+
+- Scikit-learn
+
+- NumPy
+
+- Pandas
+
 ### Files:
 |   #   | File            | Description                                        |
 | :---: | --------------- | -------------------------------------------------- |
