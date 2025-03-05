@@ -1,7 +1,7 @@
 ## Go Rank Predictor
 
 ### Description:
-This program predicts the rank of the Go Player according to the input win and lost ratio of the Go Player.
+Machine Learning model that predicts the rank of the Go Player according to the input win and lost ratio of the Go Player.
 
 ### Files:
 |   #   | File            | Description                                        |
